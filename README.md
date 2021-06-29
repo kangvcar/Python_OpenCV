@@ -13,3 +13,16 @@
 9. 数学形态学，包括二值形态学（腐蚀、膨胀、开启、闭合）、基于二值形态学应用(噪声消除、目标检测、区域填充)；灰度形态学（腐蚀、膨胀、开启、闭合）、基于灰度形态学的应用(形态梯度、形态平滑、高帽变换、低帽变换) 。
 10. Sobel算子、Roberts算子、拉普拉斯算子、Canny算子、Prewitt算子、高斯拉普拉斯算子。
 
+⚡运行本项目代码前请执行以下命令安装所依赖的库
+
+```shell
+git clone git@github.com:kangvcar/kkimage.git
+cd kkimage
+pipenv install
+```
+
+⚡**[kk.py](https://github.com/kangvcar/kkimage/blob/master/kk.py)**文件中项目中的各个功能模块包含详细的说明，各个函数功能高度解耦可独立运行
+
+⚡运行命令 `python mainWindow.py` 打开GUI程序，持续完善中…
+
+![gui](https://github.com/kangvcar/kkimage/blob/master/gui.jpg)
