@@ -3,9 +3,9 @@ import numpy as np
 from matplotlib import pyplot as plt
 from pywt import dwt2, idwt2
 # 定义需要处理的图像
-pic1 = 'image1.jpg'
-pic2 = 'image2.jpg'
-pic3 = 'image3.jpg'
+pic1 = './images/image1.jpg'
+pic2 = './images/image2.jpg'
+pic3 = './images/image3.jpg'
 
 
 def imgShift(pic):
@@ -27,10 +27,10 @@ def imgShift(pic):
     dst = cv.warpAffine(image, M, (cols, rows))
     ax1 = plt.subplot(1, 2, 1)
     plt.imshow(image)
-    ax1.set_title("原图")
+    ax1.set_title("source")
     ax2 = plt.subplot(1, 2, 2)
     plt.imshow(dst)
-    ax2.set_title("平移后")
+    ax2.set_title("deal")
     plt.savefig('./result/' + 'imgshift' + pic, format='jpg')
 
 

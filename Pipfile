@@ -12,6 +12,10 @@ pywavelets = "*"
 scikit-image = "*"
 pyqt5 = "*"
 pyqtgraph = "*"
+gooey = "*"
+flake8 = "*"
+yapf = "*"
+pyinstaller = "*"
 
 [dev-packages]
 
