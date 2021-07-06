@@ -13,10 +13,7 @@ pipenv install
 
 ⚡**[kk.py](https://github.com/kangvcar/kkimage/blob/master/kk.py)**文件中项目中的各个功能模块包含详细的说明，各个函数功能高度解耦可独立运行
 
-⚡GUI程序
-
-![gui](https://github.com/kangvcar/kkimage/blob/master/pics/pic1.jpg?raw=true)
-![gui](https://github.com/kangvcar/kkimage/blob/master/pics/pic3.jpg?raw=true)
+## GUI程序
 
 ### 基础版
 
@@ -24,8 +21,6 @@ pipenv install
 
 - 每次支持处理一个图像
 - 支持的4种算法包括：平移变换、尺度变换、旋转变换、仿射变换
-
-
 
 ### 完整版
 
@@ -38,6 +33,8 @@ pipenv install
 - 一键完成60+种不同的处理算法图像处理
 - 可联系作者获取源代码文件
 
+![gui](https://github.com/kangvcar/kkimage/blob/master/pics/pic1.jpg?raw=true)
+![gui](https://github.com/kangvcar/kkimage/blob/master/pics/pic3.jpg?raw=true)
 
 ## 算法列表
 
