@@ -1,10 +1,11 @@
-# 基于Python OpenCV的图像算法研究
+# 基于Python OpenCV的图像算法研究 - 图像处理
 
 ## 使用说明
 
 ⚡运行本项目代码前请执行以下命令安装所依赖的库
 
 ```shell
+pip install pipenv
 git clone git@github.com:kangvcar/kkimage.git
 cd kkimage
 pipenv install
@@ -12,9 +13,31 @@ pipenv install
 
 ⚡**[kk.py](https://github.com/kangvcar/kkimage/blob/master/kk.py)**文件中项目中的各个功能模块包含详细的说明，各个函数功能高度解耦可独立运行
 
-⚡运行命令 `python mainWindow.py` 打开GUI程序，持续完善中…
+⚡GUI程序
 
-![gui](https://github.com/kangvcar/kkimage/blob/master/gui.jpg)
+![gui](https://github.com/kangvcar/kkimage/blob/master/pics/pic1.jpg?raw=true)
+![gui](https://github.com/kangvcar/kkimage/blob/master/pics/pic3.jpg?raw=true)
+
+### 基础版
+
+[下载基础版](https://github.com/kangvcar/kkimage/releases/download/v1.2.0/kkapp-base.exe)
+
+- 每次支持处理一个图像
+- 支持的4种算法包括：平移变换、尺度变换、旋转变换、仿射变换
+
+
+
+### 完整版
+
+[获取完整版](https://mianbaoduo.com/o/bread/YZqcm51r)后可获得如下服务：[限时优惠码](https://mbd.pub/a24yFsO)
+
+- “图像处理工具集 - 完整版” 程序（Windows 版）
+- “图像处理工具集 - 完整版” 程序（MacOS 版可联系作者制作）
+- 完整版支持批处理，一次处理多张图像
+- 完整版支持所有60+种图像处理算法
+- 一键完成60+种不同的处理算法图像处理
+- 可联系作者获取源代码文件
+
 
 ## 算法列表
 
