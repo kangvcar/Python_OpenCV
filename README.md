@@ -33,8 +33,7 @@ pipenv install
 - 一键完成60+种不同的处理算法图像处理
 - 可联系作者获取源代码文件
 
-![gui](https://github.com/kangvcar/kkimage/blob/master/pics/pic1.jpg?raw=true)
-![gui](https://github.com/kangvcar/kkimage/blob/master/pics/pic3.jpg?raw=true)
+![gui](https://github.com/kangvcar/kkimage/blob/master/pics/app.gif?raw=true)
 
 ## 算法列表
 

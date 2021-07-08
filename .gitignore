@@ -1,7 +1,9 @@
 images/
 .ipynb_checkpoints/
+.idea/
 app/
 app2/
 images/
 result/
+test/
 kk.py
