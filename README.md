@@ -11,7 +11,7 @@ cd kkimage
 pipenv install
 ```
 
-⚡ [main.py](https://github.com/kangvcar/kkimage/blob/master/main.py) 文件中项目中的各个功能模块包含详细的说明，各个函数功能高度解耦可独立运行，获取[完整版](https://mianbaoduo.com/o/bread/YZqcm51r)60+种图像处理算法。
+⚡ [main.py](https://github.com/kangvcar/kkimage/blob/master/main.py) 文件中项目中的各个功能模块包含详细的说明，各个函数功能高度解耦可独立运行，获取[完整版](https://mbd.pub/o/bread/YZqcm51r)60+种图像处理算法。
 
 ## GUI程序
 
@@ -24,7 +24,7 @@ pipenv install
 
 ### 完整版
 
-[获取完整版](https://mianbaoduo.com/o/bread/YZqcm51r)后可获得如下服务：[限时优惠码](https://mbd.pub/a24yFsO)
+[获取完整版](https://mbd.pub/o/bread/YZqcm51r)后可获得如下服务：
 
 - “图像处理工具集 - 完整版” 程序（Windows 版）
 - “图像处理工具集 - 完整版” 程序（MacOS 版可联系作者制作）
